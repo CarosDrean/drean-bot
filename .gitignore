@@ -1,0 +1,6 @@
+.wwebjs_auth
+node_modules
+.idea
+
+chatbotaccount.json
+.env
